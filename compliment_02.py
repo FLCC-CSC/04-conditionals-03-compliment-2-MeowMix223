@@ -1,8 +1,8 @@
 # FILE NAME - compliment_02.py
 
-# NAME: 
-# DATE: 
-# BRIEF DESCRIPTION:  
+# NAME: Emma Edwards
+# DATE: 10/5/25
+# BRIEF DESCRIPTION:  compliment 2 lab
 
 
 
@@ -15,7 +15,11 @@
 
 ########## ENTER YER CODE BELOW THIS LINE ##########
 
-
+answer = input("Would you like a compliment?")
+if answer = "yes":
+    print("You have wonderful eyes.")
+else:
+    print("No compliment for you!")
 
 
 
@@ -71,7 +75,7 @@ Thank you for playing.
 
 1. Did you struggle with this lab (YES/NO)?
 
-
+No
 
 
 
